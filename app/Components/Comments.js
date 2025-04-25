@@ -22,7 +22,7 @@ const reviews = [
     name: "Aman Verma",
     username: "@Aman_13",
     body: "Nice Website, Really Amazing.",
-    img: "amanp.pdf",
+    img: "aman.jpeg",
     alt: "Aman verma",
   },
   {

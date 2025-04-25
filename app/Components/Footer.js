@@ -118,7 +118,7 @@ const Footer = () => {
               <span className={`${robotoMin.className} after:block after:w-0 after:h-[2px] after:bg-white after:transition-all after:duration-300 after:ease-in-out hover:after:w-full`}>
                 Leetcode
               </span>
-              <span className="text-white/60 mb-0.5">- 100+ Problems Solved</span>
+              <span className="text-white/60 mb-0.5">- 200+ Problems solved</span>
             </Link>
           </div>
           <div className="pt-0.5">
@@ -144,7 +144,7 @@ const Footer = () => {
               <span className={`${robotoMin.className} after:block after:w-0 after:h-[2px] after:bg-white after:transition-all after:duration-300 after:ease-in-out hover:after:w-full`}>
                 HackerRank
               </span>
-              <span className="text-white/60 mb-0.5">- 5 stars on C++, Python</span>
+              <span className="text-white/60 mb-0.5">- 5 stars on C++, SQL</span>
             </Link>
           </div>
         </nav>
